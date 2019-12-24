@@ -11,7 +11,7 @@
     <string name="navigation_drawer_open">open</string>
     <string name="navigation_drawer_close">close</string>
     <string name="share">Share</string>
-    <string name="send">Send</string>
+    <string name="send">Надіслати</string>
     <string name="communicate">Communicate</string>
     <string name="camera_fragment">Camera Fragment</string>
     <string name="gallery_fragment">Gallery Fragment</string>
