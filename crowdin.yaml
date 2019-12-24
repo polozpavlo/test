@@ -2,5 +2,5 @@ files:
   - source: /**/*.xml
     ignore_settings: 1
     ignore:
-      - /**/*.csv
+      - /resources/*
     translation: /resources/%two_letters_code%_%original_file_name%
