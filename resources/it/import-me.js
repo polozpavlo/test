@@ -30,4 +30,7 @@ Ext.define('Ext.locale.es.picker.Date', {
     format: 'd/m/Y',
     startDay: 1
 });
-var translatableArray = {'aaa': 'bbbb', 'aaa': 'bbbb'};
+var translatableArray = {
+    'aaa': 'bbbb',
+    'aaa': 'bbbb'
+};
