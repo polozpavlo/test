@@ -1,5 +1,5 @@
 files:
-  - source: /*.js
+  - source: /**.js
     ignore_settings: 1
     ignore:
       - /resources
