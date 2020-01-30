@@ -20,7 +20,7 @@ Ext.define('Ext.locale.es.picker.Date', {
     override: 'Ext.picker.Date',
     todayText: 'Today',
     minText: 'This date is before the minimum date',
-    maxText: 'This date is after the maximum date',
+    maxText: 'Ця дата закінчується після максимальної дати',
     disabledDaysText: '',
     disabledDatesText: '',
     nextText: 'Next Month (Control + Right)',
