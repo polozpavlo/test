@@ -28,7 +28,7 @@ Ext.define('Ext.locale.es.picker.Date', {
     monthYearText: 'Select a month (Control + Up / Down to move the year)',
     todayTip: '{0} (Spacebar)',
     format: 'd/m/Y',
-    startDay: '1'
+    startDay: 1
 });
 var translatableArray = {
     'aaa': 'bbbb',
